@@ -16,7 +16,7 @@
 
 Use the following options to have it look exactly like in the screenshot above.
 
-<img src="screenshot-options.png" width="625">
+<img src="screenshot-options.png" width="503">
 
 
 ## License
