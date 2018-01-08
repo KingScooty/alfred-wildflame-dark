@@ -1,6 +1,6 @@
 # alfred-wildflame-dark
 
-> A nice dark theme for [Alfred](https://www.alfredapp.com)
+> A nice dark OSX style theme for [Alfred](https://www.alfredapp.com)
 
 <img src="screenshot.png" width="731">
 
