@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#F0F1EFA4",
+        "font" : "System Light",
+        "color" : "#F0F1EF32"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#F0F1EFFF",
+        "font" : "System",
+        "color" : "#A4A4A49B"
+      },
+      "backgroundSelected" : "#27293600",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#F0F1EFFF",
+        "font" : "System",
+        "color" : "#F0F1EF66"
+      },
+      "iconPaddingHorizontal" : 8,
+      "paddingVertical" : 8,
+      "iconSize" : 36
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#27293600",
+      "spacing" : 16,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#F0F1EFFF"
+      },
+      "backgroundSelected" : "#FFBAB8FF"
+    },
+    "window" : {
+      "color" : "#272936D9",
+      "paddingHorizontal" : 8,
+      "width" : 560,
+      "borderPadding" : 4,
+      "borderColor" : "#26323900",
+      "blur" : 40,
+      "roundness" : 8,
+      "paddingVertical" : 8
+    },
+    "credit" : "Scotty Vernon",
+    "separator" : {
+      "color" : "#FFFFFF00",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#ECEFF226",
+      "thickness" : 2
+    },
+    "name" : "Wildflame Dark"
+  }
+}
